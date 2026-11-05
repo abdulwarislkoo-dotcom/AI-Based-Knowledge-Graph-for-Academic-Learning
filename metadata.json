@@ -1,0 +1,6 @@
+{
+  "name": "AI Knowledge Graph - Academic Learning Platform",
+  "description": "Intelligent academic learning platform organising educational concepts into an interactive Knowledge Graph with college-level DSA algorithms, prerequisite navigation, and learning paths.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
